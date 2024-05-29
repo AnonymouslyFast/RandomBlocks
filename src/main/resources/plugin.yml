@@ -1,0 +1,4 @@
+name: RandomBlocks
+version: '${project.version}'
+main: studio.ecoprojects.randomblocks.RandomBlocks
+api-version: '1.20'
